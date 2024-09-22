@@ -1,0 +1,1 @@
+in this stage we add collect static to the project so that if we ran the project in production environemnt some day in future static files will load.
